@@ -12,7 +12,7 @@ The capture_continuous function takes three arguments:
 2. Training the recognizer- The recognizer is trained according to the data gathered in the previous step. The LBPH (LOCAL BINARY PATTERNS HISTOGRAMS) face recognizer is used, which is included on the OpenCV package. Finally, the dictionary which contains the directory names and label IDs are stored.
 
 3. Using the Recognizer for Facial Recognition- The recognizer set up in the previous section can now be used to recognize the faces. It will give a confidence level and label ID. If the face matches, the relay will turn on. 
-![](images/Facial_Auth)
+![](images/Facial_Auth.PNG)
 
 
 
